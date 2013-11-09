@@ -1,0 +1,11 @@
+2ed80131b1b1aa8000971c4da7a8a805 *QtCored4.dll
+0246281af82ae17b9b27530c2876c86c *QtGuid4.dll
+3fe9ee1b3fd648f2aa69bc8d4f6a8c9e *README.txt
+cfdd446ae32d5dc15074ca98a75cd070 *gigacoin-qt.exe
+963d14ce7e4a49ad33697860498f22d8 *gigacoin.conf
+6c39eb879cf3550db397feffa9021f6a *gigacoind.exe
+9f2504f76ee18be995d099eb601ace68 *gigacoind_help.txt
+12b45e45b8cb0ddf458192c9f0db4bf2 *libeay32.dll
+c4b4409f186da70fcf2bcc60d5f05489 *libgcc_s_dw2-1.dll
+13a00917b6bbe4cc11acfceefbc3f4c5 *libstdc++-6.dll
+dbda60d92e774b4acb3b1cd71f909426 *mingwm10.dll
